@@ -41,7 +41,6 @@
 		<Unit filename="include/Figura.h" />
 		<Unit filename="include/Fila.h" />
 		<Unit filename="include/Heap.h" />
-		<Unit filename="include/HeapSort.h" />
 		<Unit filename="include/Lista.h" />
 		<Unit filename="include/MergeSort.h" />
 		<Unit filename="include/Pila.h" />
@@ -57,7 +56,6 @@
 		<Unit filename="src/Figura.cpp" />
 		<Unit filename="src/Fila.cpp" />
 		<Unit filename="src/Heap.cpp" />
-		<Unit filename="src/HeapSort.cpp" />
 		<Unit filename="src/Lista.cpp" />
 		<Unit filename="src/MergeSort.cpp" />
 		<Unit filename="src/Pila.cpp" />
