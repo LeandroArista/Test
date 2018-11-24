@@ -1,0 +1,279 @@
+# depslib dependency file v1.0
+1446667744 source:c:\algoritmos\trabajo\main.cpp
+	<iostream>
+
+1537908125 source:c:\algoritmos\trabajo\src\circulo.cpp
+	"Circulo.h"
+
+1537908125 c:\algoritmos\trabajo\include\circulo.h
+	"Punto.h"
+	<iostream>
+	"Figura2D.h"
+
+1537908125 c:\algoritmos\trabajo\include\punto.h
+	<cmath>
+
+1537907082 c:\algoritmos\trabajo\include\figura2d.h
+	<iostream>
+	"Punto.h"
+
+1537907082 source:c:\algoritmos\trabajo\src\figura2d.cpp
+	"Figura2D.h"
+	<iostream>
+
+1537904411 source:c:\algoritmos\trabajo\src\punto.cpp
+	"Punto.h"
+
+1537904545 source:c:\algoritmos\trabajo\src\segmento.cpp
+	"Segmento.h"
+
+1537904545 c:\algoritmos\trabajo\include\segmento.h
+	"Punto.h"
+
+1540665612 source:c:\users\leand\desktop\trabajo\trabajo\main.cpp
+	<iostream>
+	"Punto.h"
+	"Segmento.h"
+	"Lista.h"
+	<cstdlib>
+	"Conjunto.h"
+	"MergeSort.h"
+	"AdministradorFiguras.h"
+	"Figura.h"
+	"Triangulo.h"
+	"Cuadrado.h"
+	"Circulo.h"
+	"Heap.h"
+	"Quicksort.h"
+	"HeapSort.h"
+
+1538630668 source:c:\users\leand\desktop\trabajo\trabajo\src\circulo.cpp
+	"Circulo.h"
+	<string>
+	<iostream>
+
+1538628516 c:\users\leand\desktop\trabajo\trabajo\include\circulo.h
+	"Punto.h"
+	"Figura.h"
+
+1538601056 c:\users\leand\desktop\trabajo\trabajo\include\punto.h
+	<cmath>
+	<iostream>
+
+1537925368 c:\users\leand\desktop\trabajo\trabajo\include\figura2d.h
+	<iostream>
+	"Punto.h"
+
+1538628516 source:c:\users\leand\desktop\trabajo\trabajo\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1538628408 c:\users\leand\desktop\trabajo\trabajo\include\cuadrado.h
+	"Figura.h"
+
+1537924252 source:c:\users\leand\desktop\trabajo\trabajo\src\figura2d.cpp
+	"Figura2D.h"
+
+1538601455 source:c:\users\leand\desktop\trabajo\trabajo\src\punto.cpp
+	"Punto.h"
+	<iostream>
+
+1538067656 source:c:\users\leand\desktop\trabajo\trabajo\src\segmento.cpp
+	"Segmento.h"
+
+1538067415 c:\users\leand\desktop\trabajo\trabajo\include\segmento.h
+	"Punto.h"
+
+1538102819 source:c:\users\leand\desktop\trabajo\trabajo\src\conjunto.cpp
+	"Conjunto.h"
+
+1538075105 c:\users\leand\desktop\trabajo\trabajo\include\conjunto.h
+	"Lista.h"
+
+1538600075 c:\users\leand\desktop\trabajo\trabajo\include\lista.h
+	"Figura.h"
+	"Punto.h"
+	"Segmento.h"
+
+1537925151 source:c:\users\leand\desktop\trabajo\trabajo\src\fila.cpp
+	"Fila.h"
+
+1537925085 c:\users\leand\desktop\trabajo\trabajo\include\fila.h
+	"Lista.h"
+
+1538631589 source:c:\users\leand\desktop\trabajo\trabajo\src\lista.cpp
+	"Lista.h"
+	<cassert>
+
+1537925055 source:c:\users\leand\desktop\trabajo\trabajo\src\pila.cpp
+	"Pila.h"
+
+1537924963 c:\users\leand\desktop\trabajo\trabajo\include\pila.h
+	"Lista.h"
+
+1538628516 source:c:\users\leand\desktop\trabajo\trabajo\src\triangulo.cpp
+	"Triangulo.h"
+
+1538628408 c:\users\leand\desktop\trabajo\trabajo\include\triangulo.h
+	"Figura.h"
+
+1538631872 source:c:\users\leand\desktop\trabajo\trabajo\src\administradorfiguras.cpp
+	"AdministradorFiguras.h"
+
+1538631839 c:\users\leand\desktop\trabajo\trabajo\include\administradorfiguras.h
+	"Lista.h"
+	"Figura.h"
+
+1538689854 c:\users\leand\desktop\trabajo\trabajo\include\mergesort.h
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1538689959 source:c:\users\leand\desktop\trabajo\trabajo\src\mergesort.cpp
+	"MergeSort.h"
+
+1538631767 c:\users\leand\desktop\trabajo\trabajo\include\figura.h
+	<iostream>
+	"Punto.h"
+
+1538624845 source:c:\users\leand\desktop\trabajo\trabajo\src\figura.cpp
+	"Figura.h"
+
+1540665371 source:c:\users\leand\desktop\trabajo\trabajo\src\heap.cpp
+	"Heap.h"
+	<algorithm>
+	<iostream>
+
+1540664915 c:\users\leand\desktop\trabajo\trabajo\include\heap.h
+
+1538689752 source:c:\users\leand\desktop\trabajo\trabajo\src\quicksort.cpp
+	"Quicksort.h"
+	<stdlib.h>
+
+1538689752 c:\users\leand\desktop\trabajo\trabajo\include\quicksort.h
+
+1540665575 source:c:\users\leand\desktop\trabajo\trabajo\src\heapsort.cpp
+	"HeapSort.h"
+	<iostream>
+
+1540507380 c:\users\leand\desktop\trabajo\trabajo\include\heapsort.h
+
+1540665612 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\main.cpp
+	<iostream>
+	"Punto.h"
+	"Segmento.h"
+	"Lista.h"
+	<cstdlib>
+	"Conjunto.h"
+	"MergeSort.h"
+	"AdministradorFiguras.h"
+	"Figura.h"
+	"Triangulo.h"
+	"Cuadrado.h"
+	"Circulo.h"
+	"Heap.h"
+	"Quicksort.h"
+	"HeapSort.h"
+
+1538601056 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\punto.h
+	<cmath>
+	<iostream>
+
+1538067415 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\segmento.h
+	"Punto.h"
+
+1538600075 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\lista.h
+	"Figura.h"
+	"Punto.h"
+	"Segmento.h"
+
+1538631767 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\figura.h
+	<iostream>
+	"Punto.h"
+
+1538075105 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\conjunto.h
+	"Lista.h"
+
+1538689854 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\mergesort.h
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1538631839 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\administradorfiguras.h
+	"Lista.h"
+	"Figura.h"
+
+1538628408 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\triangulo.h
+	"Figura.h"
+
+1538628408 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\cuadrado.h
+	"Figura.h"
+
+1538628516 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\circulo.h
+	"Punto.h"
+	"Figura.h"
+
+1540664915 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\heap.h
+
+1538689752 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\quicksort.h
+
+1540507380 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\heapsort.h
+
+1538631872 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\administradorfiguras.cpp
+	"AdministradorFiguras.h"
+
+1538630668 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\circulo.cpp
+	"Circulo.h"
+	<string>
+	<iostream>
+
+1538102819 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\conjunto.cpp
+	"Conjunto.h"
+
+1538628516 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1538624845 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\figura.cpp
+	"Figura.h"
+
+1537925151 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\fila.cpp
+	"Fila.h"
+
+1537925085 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\fila.h
+	"Lista.h"
+
+1540665371 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\heap.cpp
+	"Heap.h"
+	<algorithm>
+	<iostream>
+
+1538631589 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\lista.cpp
+	"Lista.h"
+	<cassert>
+
+1538689959 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\mergesort.cpp
+	"MergeSort.h"
+
+1537925055 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\pila.cpp
+	"Pila.h"
+
+1537924963 c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\include\pila.h
+	"Lista.h"
+
+1538601455 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\punto.cpp
+	"Punto.h"
+	<iostream>
+
+1538689752 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\quicksort.cpp
+	"Quicksort.h"
+	<stdlib.h>
+
+1538067656 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\segmento.cpp
+	"Segmento.h"
+
+1538628516 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\triangulo.cpp
+	"Triangulo.h"
+
+1540665718 source:c:\users\leand\desktop\grupo3-reentrega\trabajo\trabajo\src\heapsort.cpp
+	"HeapSort.h"
+	<iostream>
+
